@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+.env
+
+# Model files (IMPORTANT)
+*.pt
+*.pth
+*.h5
+
+# VS Code
+.vscode/
+
+# Build
+dist/
+build/
+
+deep-stego.ipynb
